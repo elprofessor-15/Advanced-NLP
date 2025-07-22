@@ -1,8 +1,8 @@
-# Advanced NLP for Real-World Sustainability Applications 🌍
+# Advanced NLP for Real-World Sustainability Applications 
 
 This repository showcases advanced Natural Language Processing (NLP) techniques applied to real-world sustainability data. The project covers end-to-end pipelines for sentiment analysis, topic modeling, named entity recognition, and text summarization using state-of-the-art models like RoBERTa and spaCy.
 
-## 🧠 Tasks Implemented
+## Tasks Implemented
 
 1. **Sentiment Analysis with RoBERTa**  
    Fine-tuned RoBERTa model to classify 1.6M+ tweets into positive, negative, or neutral sentiments.
@@ -16,12 +16,12 @@ This repository showcases advanced Natural Language Processing (NLP) techniques 
 4. **Text Summarization**  
    Fine-tuned a transformer model on BBC articles to generate human-like abstractive summaries.
 
-## 💾 Dataset Sources
+## Dataset Sources
 
 - **Twitter Dataset:** 1.6M tweets filtered by sustainability-related keywords.
 - **BBC News Dataset:** News articles with human-written summaries for fine-tuning the summarizer.
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/elprofessor-15/Advanced-NLP
